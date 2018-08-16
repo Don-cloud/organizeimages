@@ -1,5 +1,6 @@
-
-#read exif information of jpg files in current directory
+# author: Don
+# date: 08/08/18 
+# read exif information of jpg files in current directory
 # and make a folder for date created, move the file into that directory
 # helps you organize your image files
 
